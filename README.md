@@ -1,3 +1,3 @@
 # projects
 email CTR improvement
-with Logistic Regression and Decision Tree
+with Logistic Regression, Decision Tree and Rulefit
